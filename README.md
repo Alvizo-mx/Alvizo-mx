@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Alvizo</h1>
 <h3 align="center">A passionate Data scientist from México</h3>
 
-- 🔭 I’m currently working on **flight price prediction**
+- 🔭 I’m currently working on **México real estate data**
 
 - 🌱 I’m currently learning **Data science**
 
